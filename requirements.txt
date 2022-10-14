@@ -41,3 +41,5 @@ simpleaudio
 jira
 pytz
 twilio
+google-api-python-client
+spacy
